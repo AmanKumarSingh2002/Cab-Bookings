@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1006678185104",
+    "project_id": "onlinecabservice-5a2b2",
+    "storage_bucket": "onlinecabservice-5a2b2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1006678185104:android:a6b2c2c6749a5539157415",
+        "android_client_info": {
+          "package_name": "com.majorproject.onlinecabservice"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB_iHk-hhdVm6f9iT14Wz5_0zESzigTDAY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
